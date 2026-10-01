@@ -1,0 +1,26 @@
+{
+  "name": "hasnain-ugc",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fontsource/caveat-brush": "^5.3.0",
+    "@fontsource/manrope": "^5.3.0",
+    "@fontsource/unbounded": "^5.3.0",
+    "motion": "^13.5.0",
+    "next": "^15.5.27",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "5.8"
+  }
+}
